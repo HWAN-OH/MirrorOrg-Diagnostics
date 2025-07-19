@@ -1,0 +1,32 @@
+[
+  {
+    "speaker": "A",
+    "timestamp": "2025-01-01T09:00:00",
+    "emotion": 0.7,
+    "cognition": 0.6
+  },
+  {
+    "speaker": "B",
+    "timestamp": "2025-01-01T09:10:00",
+    "emotion": 0.2,
+    "cognition": 0.8
+  },
+  {
+    "speaker": "A",
+    "timestamp": "2025-01-01T09:30:00",
+    "emotion": 0.1,
+    "cognition": 0.4
+  },
+  {
+    "speaker": "B",
+    "timestamp": "2025-01-01T10:00:00",
+    "emotion": -0.3,
+    "cognition": 0.3
+  },
+  {
+    "speaker": "A",
+    "timestamp": "2025-01-01T10:30:00",
+    "emotion": -0.6,
+    "cognition": 0.2
+  }
+]
